@@ -35,7 +35,7 @@ A sleek, modern web-based algebra math game designed for middle school students.
 
 ## 🚀 Play Now
 
-👉 **[Play Algebra Arena](https://henryng31337.github.io/algebra-arena)**
+👉 **[Play Algebra Arena](https://buildnplay.github.io/algebra-arena)**
 
 ## 🛠️ Built With
 
